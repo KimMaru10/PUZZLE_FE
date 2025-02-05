@@ -1,8 +1,8 @@
 # 🏆2024-2 한림대학교 소프트웨어캡스톤디자인_대상🏆
 
 <div style="display: flex; ">
-  <img src="https://github.com/user-attachments/assets/09f63897-ea17-4769-8fb0-4490afd6c95d" width="400" height="300" alt="2024-2 한림대학교 소프트웨어캡스톤디자인_대상" />
-  <img src="https://github.com/user-attachments/assets/faa31dad-e014-479c-bebb-5499de753fad" width="400" height="300" alt="IMG_2855" />
+  <img src="https://github.com/user-attachments/assets/09f63897-ea17-4769-8fb0-4490afd6c95d" width="400" height="500" alt="2024-2 한림대학교 소프트웨어캡스톤디자인_대상" />
+  <img src= "https://github.com/user-attachments/assets/6a4ee3dd-29ee-4ef8-b19f-526110a156b7" width="400" height="500" alt="IMG_2855" />
 </div>
 
 <br>
