@@ -37,7 +37,7 @@ Puzzle은 팀 프로젝트의 기획 및 설계 과정을 혁신적으로 개선
 | 김태호 | 김대성 | 김선우 |
 |  <img width="130px" src="https://avatars.githubusercontent.com/u/126559845?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/131854855?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/114386406?v=4" /> |
 | 한림대학교 | 한림대학교 | 한림대학교|
-| 빅데이터전공 3학년 | 콘텐츠IT전공 4학년 | 빅데이터 3학년|
+| 빅데이터전공 | 콘텐츠IT전공 | 빅데이터 |
 | [@low](https://github.com/ho8ae)|[@丸内大成](https://github.com/KimMaru10)|[@kimxxunu](https://github.com/Kimxxunu)|
 
 ## 📚 Tech Stacks
