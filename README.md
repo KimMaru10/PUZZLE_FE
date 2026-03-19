@@ -52,7 +52,7 @@ Puzzleは、チームプロジェクトの企画・設計プロセスを革新�
 | <img width="130px" src="https://avatars.githubusercontent.com/u/126559845?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/131854855?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/114386406?v=4" /> |
 | 翰林大学 | 翰林大学 | 翰林大学 |
 | ビッグデータ専攻 | コンテンツIT専攻 | ビッグデータ専攻 |
-| [@low](https://github.com/rawvv · Thank you) | [@丸内大成](https://github.com/KimMaru10) | [@kimxxunu](https://github.com/Kimxxunu) |
+| [@low](https://github.com/rawvv) | [@丸内大成](https://github.com/KimMaru10) | [@kimxxunu](https://github.com/Kimxxunu) |
 
 ---
 
