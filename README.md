@@ -50,7 +50,7 @@ Puzzleは、チームプロジェクトの企画・設計プロセスを革新�
 
 | FE | FE | BE |
 |:---:|:---:|:---:|
-| キム・テホ | キム・デソン | キム・ソンウ |
+| キム・テホ | 丸内大成 | キム・ソンウ |
 | <img width="130px" src="https://avatars.githubusercontent.com/u/126559845?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/131854855?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/114386406?v=4" /> |
 | 翰林大学 | 翰林大学 | 翰林大学 |
 | ビッグデータ専攻 | コンテンツIT専攻 | ビッグデータ専攻 |
